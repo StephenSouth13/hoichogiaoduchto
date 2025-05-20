@@ -1,6 +1,27 @@
-Thanks for downloading this template!
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+🇻🇳 Giới thiệu
+Hội Chợ Giáo Dục HTO là sự kiện kết nối các bạn học sinh, sinh viên với các tổ chức giáo dục hàng đầu. Tại đây, bạn có thể:
+
+🎓 Gặp gỡ các trường đại học, cao đẳng, trung tâm đào tạo
+📌 Tìm hiểu chương trình học, học bổng và tư vấn định hướng nghề nghiệp
+📅 Tham gia các buổi hội thảo, workshop và hoạt động trải nghiệm thú vị
+📍 Mở rộng mạng lưới kết nối trong cộng đồng giáo dục
+
+💡 Sứ mệnh: Mang đến cơ hội tiếp cận giáo dục chất lượng cho tất cả mọi người.
+
+🇺🇸 About
+HTO Education Fair is a platform that connects students with top educational institutions. Our fair offers:
+
+🎓 Direct access to universities, colleges, and training centers
+📌 Academic programs, scholarship info, and career counseling
+📅 Workshops, seminars, and hands-on activities
+📍 Networking opportunities with educators and peers
+
+💡 Our mission: Making quality education more accessible to everyone.
+
+🔗 Liên kết | Useful Links
+🌍 Website chính thức: https://stephensouth13.github.io/hoichogiaoduchto/
+
+📸 Hình ảnh sự kiện: (Bạn có thể thêm thư mục hoặc liên kết tới ảnh trong repo hoặc Google Drive)
+
+📞 Liên hệ: stephensouth1307@gmail.com
